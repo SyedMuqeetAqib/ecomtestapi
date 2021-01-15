@@ -9,5 +9,10 @@
         "name":"Muqeet",
         "team":"Hello",
         "pointsPerGame":99
+    },
+    {
+        "name":"Kashif",
+        "team":"Kese ho yaar",
+        "pointsPerGame":230
     }
 ]
